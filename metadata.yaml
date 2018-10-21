@@ -1,5 +1,5 @@
 _repo: The-Book-of-the-Thousand-Nights-and-a-Night-Volume-07_3441
-_version: 0.2.0
+_version: 0.2.1
 alternative_title:
 - Arabian nights. English
 - "Arabian Nights;\r\n1001 Nights"
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Tales -- Arab countries'
 - !lcsh 'Fairy tales'
 - !lcc 'PJ'
+- GITenberg
 title: The Book of the Thousand Nights and a Night — Volume 07
 url: http://www.gutenberg.org/ebooks/3441
